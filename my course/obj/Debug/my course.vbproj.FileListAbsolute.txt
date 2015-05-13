@@ -1,0 +1,15 @@
+D:\我的工作空间\VB\my course\my course\bin\Debug\my course.exe.config
+E:\业务\VB\my course\my course\bin\Debug\my course.exe.config
+E:\业务\VB\my course\my course\bin\Debug\my course.exe
+E:\业务\VB\my course\my course\bin\Debug\my course.pdb
+E:\业务\VB\my course\my course\bin\Debug\my course.xml
+E:\业务\VB\my course\my course\obj\Debug\my_course.Form1.resources
+E:\业务\VB\my course\my course\obj\Debug\my_course.Resources.resources
+E:\业务\VB\my course\my course\obj\Debug\my course.vbproj.GenerateResource.Cache
+E:\业务\VB\my course\my course\obj\Debug\my course.exe
+E:\业务\VB\my course\my course\obj\Debug\my course.xml
+E:\业务\VB\my course\my course\obj\Debug\my course.pdb
+C:\Users\Saiyin Liu\Desktop\New folder\my course\bin\Debug\my course.exe.config
+C:\Users\Saiyin Liu\Desktop\New folder\my course\obj\Debug\my course.exe
+C:\Users\Saiyin Liu\Desktop\New folder\my course\obj\Debug\my course.xml
+C:\Users\Saiyin Liu\Desktop\New folder\my course\obj\Debug\my course.pdb
